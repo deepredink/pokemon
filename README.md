@@ -11,3 +11,7 @@ Display the Pokemon image based on the user's input.
 ## Resources
 
 [Pokemon API](http://pokeapi.co/)
+
+## Submission
+
+Please enter your details and the github repo of your test [here](http://deepredink.in/demos/mec)
